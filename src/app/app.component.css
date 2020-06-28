@@ -1,0 +1,38 @@
+
+
+body,.abc{
+
+  width: 100%;
+  background-image: url(src\assets\1-movie-2-signage-under-white-clouds-1200450.jpg) ;
+  background-size: 100% 100%;
+
+}
+
+ #test{
+
+  height: 250px;
+  width: 250px;
+  background-image: url(src\assets\100SEGURO.gif) ;
+  background-size: 100% 100%;
+  margin-bottom: 10px;
+
+ }
+
+ #pet{
+
+  margin-left: 85%;
+  height: 200px;
+  width: 250px;
+  background-image: url(src\assets\mascotas-y-nenes.png) ;
+  background-size: 100% 100%;
+  
+
+ }
+
+#marca{
+
+  font-weight: bolder;
+  font-style: italic;
+  font-size: 50px;
+
+}
